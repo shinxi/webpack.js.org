@@ -43,7 +43,7 @@ webpack can help with this problem by bundling the CSS separately using the `Ext
 
 Install the [`ExtractTextWebpackPlugin`](/plugins/extract-text-webpack-plugin) plugin as follows
 ```
-npm i --save-dev extract-text-webpack-plugin
+npm i --save-dev extract-text-webpack-plugin@beta
 ```
 
 To use this plugin, it needs to be added to the `webpack.config.js` file in two steps.
